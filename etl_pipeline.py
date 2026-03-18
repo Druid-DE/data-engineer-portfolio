@@ -10,6 +10,7 @@ DB_CONFIG = {
     'password': 'postgres123'
 }
 
+
 def create_connection():
     """Создает подключение к базе данных"""
     try:
